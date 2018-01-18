@@ -54,7 +54,6 @@ local def = {
 
   sounds = {
       on_damage = {name = "creatures_happy_hit", gain = 0.4, distance = 10},
-      on_death = {name = "creatures_happy_death", gain = 0.7, distance = 10},
       swim = {name = "creatures_splash", gain = 1.0, distance = 10},
       random = {
         idle = {name = "creatures_happy", gain = 0.7, distance = 12},
